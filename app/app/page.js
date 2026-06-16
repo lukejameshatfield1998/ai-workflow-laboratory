@@ -1,48 +1,61 @@
-```js
 export default function AppPage() {
-  return (
-    <main className="section">
-      <h1>📱 AI Workflow Laboratory App</h1>
+return ( <main className="section"> <h1>📱 AI Workflow Laboratory App</h1>
 
-      <p>
-        AI Workflow Laboratory can be installed on your phone, tablet or computer
-        just like an app. No App Store or Play Store download is required.
-      </p>
+```
+  <p>
+    AI Workflow Laboratory can be installed on your phone, tablet or computer
+    just like an app. No App Store or Play Store download is required.
+  </p>
 
-      <h2>🍎 Install on iPhone & iPad</h2>
+  <h2>🍎 Install on iPhone & iPad</h2>
 
-      <p>Open AI Workflow Laboratory in Safari and follow:</p>
+  <p>
+    Open AI Workflow Laboratory in Safari and follow:
+  </p>
 
-      <p>••• → Share → View More → Add to Home Screen</p>
+  <p>
+    ••• → Share → View More → Add to Home Screen
+  </p>
 
-      <p>
-        Once added, AI Workflow Laboratory will appear on your Home Screen like a
-        normal app.
-      </p>
+  <p>
+    Once added, AI Workflow Laboratory will appear on your Home Screen like a normal app.
+  </p>
 
-      <h2>🤖 Install on Android</h2>
+  <h2>🤖 Install on Android</h2>
 
-      <p>Open AI Workflow Laboratory in Chrome and follow:</p>
+  <p>
+    Open AI Workflow Laboratory in Chrome and follow:
+  </p>
 
-      <p>⋮ → Install App</p>
+  <p>
+    ⋮ → Install App
+  </p>
 
-      <p>Follow the on-screen instructions to install.</p>
+  <p>
+    Follow the on-screen instructions to install.
+  </p>
 
-      <h2>💻 Install on Windows or Mac</h2>
+  <h2>💻 Install on Windows or Mac</h2>
 
-      <p>Open AI Workflow Laboratory in Chrome or Microsoft Edge and follow:</p>
+  <p>
+    Open AI Workflow Laboratory in Chrome or Microsoft Edge and follow:
+  </p>
 
-      <p>Address Bar Install Icon → Install</p>
+  <p>
+    Address Bar Install Icon → Install
+  </p>
 
-      <h2>🚀 Benefits</h2>
+  <h2>🚀 Benefits</h2>
 
-      <ul>
-        <li>Fast access from your Home Screen</li>
-        <li>Full-screen app experience</li>
-        <li>Quick access to videos, tutorials and transcripts</li>
-        <li>No App Store required</li>
-        <li>Always linked to the latest website content</li>
-      </ul>
-    </main>
-  );
+  <ul>
+    <li>Fast access from your Home Screen</li>
+    <li>Full-screen app experience</li>
+    <li>Quick access to videos, tutorials and transcripts</li>
+    <li>No App Store required</li>
+    <li>Always linked to the latest website content</li>
+  </ul>
+</main>
+```
+
+);
 }
