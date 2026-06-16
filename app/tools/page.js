@@ -14,7 +14,6 @@ export default function ToolsPage() {
           <div className="grid">
             {tools.filter((tool) => tool.category === category).map((tool) => (
               <article className="card" key={tool.name}>
-                <span className="tool-tag">{tool.category}</span>
                 <h3>{tool.name}</h3>
                 <p>{tool.description}</p>
                 <a className="button" href={tool.link} target="_blank">Visit tool</a>
