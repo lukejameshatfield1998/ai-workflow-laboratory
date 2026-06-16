@@ -11,8 +11,7 @@ export default async function Home() {
           <span className="badge">Automate. Save Time. Grow.</span>
           <h1>Simple AI workflows, tested properly.</h1>
           <p>
-            AI Workflow Laboratory is a hobby project by Luke, started during recovery from
-            arthroscopic shoulder surgery. The goal is simple: test AI tools, explain them clearly,
+            AI Workflow Laboratory is a hobby project by Luke. The goal is simple: test AI tools, explain them clearly,
             and turn useful ideas into easy tutorials.
           </p>
           <a className="button" href="/videos">Watch videos</a>
