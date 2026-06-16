@@ -34,3 +34,6 @@ And then I'm going to be changing a few other items on this flyer just to specif
 * **Automation Opportunity** – Simple automations can significantly reduce administrative workload.
 * **Business Growth** – More time saved means more time available to serve customers and grow the business.
 
+
+
+# SCOTT HATFIELD 4 EVA
