@@ -14,18 +14,21 @@ export default function RootLayout({ children }) {
             <img src="/logo.png" alt="AI Workflow Laboratory logo" />
             <span>AI Workflow Laboratory</span>
           </a>
+
           <div className="nav-links">
             <a href="/videos">Videos</a>
             <a href="/transcripts">Transcripts</a>
             <a href="/tutorials">Tutorials</a>
             <a href="/tools">AI Tools</a>
             <a href="/search">Search</a>
-    <a href="/about">About</a>
+            <a href="/about">About</a>
           </div>
         </nav>
+
         {children}
+
         <footer className="footer">
-          <img src="/logo.png" alt="" />
+          <img src="/logo.png" alt="AI Workflow Laboratory logo" />
           <p>AI Workflow Laboratory — Automate. Save Time. Grow.</p>
         </footer>
       </body>
