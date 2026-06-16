@@ -5,7 +5,7 @@ export default function AppPage() {
 
       <p>AI Workflow Laboratory can be installed on your phone, tablet or computer just like an app. No App Store or Play Store download is required.</p>
 
-      <h2>Install on iPhone and iPad</h2>
+      <h2>🍎 Install on iPhone and iPad</h2>
       <p>Open AI Workflow Laboratory in Safari and follow:</p>
       <p>Three dots → Share → View More → Add to Home Screen</p>
 
