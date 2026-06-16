@@ -5,13 +5,14 @@ export default function manifest() {
     description: 'AI tutorials, tools, workflows and transcripts.',
     start_url: '/',
     display: 'standalone',
-    background_color: '#0b0f17',
-    theme_color: '#1677ff',
+    background_color: '#000000',
+    theme_color: '#000000',
     icons: [
       {
         src: '/logo.png',
-        sizes: 'any',
+        sizes: '1024x1024',
         type: 'image/png',
+        purpose: 'any maskable',
       },
     ],
   };
