@@ -38,7 +38,7 @@ export default async function SearchPage({ searchParams }) {
           type="search"
           name="q"
           placeholder="Search for ChatGPT, automation, email, tutorials..."
-          defaultValue={searchParams.q || ''}
+          defaultValue={params.q || ''}
         />
         <button type="submit">Search</button>
       </form>
