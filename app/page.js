@@ -24,7 +24,7 @@ export default async function Home() {
         <div className="section-header">
           <div>
             <h2>Latest Video</h2>
-            <p className="muted">This section updates automatically when a new video is uploaded..</p>
+            <p className="muted">This section updates automatically when a new video is uploaded.</p>
           </div>
           <a href="/videos" className="muted">View all videos →</a>
         </div>
