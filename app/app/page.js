@@ -9,15 +9,15 @@ export default function AppPage() {
       <p>Open AI Workflow Laboratory in Safari and follow:</p>
       <p>Three dots → Share → View More → Add to Home Screen</p>
 
-      <h2>Install on Android</h2>
+      <h2>🤖 Install on Android</h2>
       <p>Open AI Workflow Laboratory in Chrome and follow:</p>
       <p>Menu → Install App</p>
 
-      <h2>Install on Windows or Mac</h2>
+      <h2>💻 Install on Windows or Mac</h2>
       <p>Open AI Workflow Laboratory in Chrome or Microsoft Edge and follow:</p>
       <p>Address Bar Install Icon → Install</p>
 
-      <h2>Benefits</h2>
+      <h2>🚀 Benefits</h2>
       <ul>
         <li>Fast access from your Home Screen</li>
         <li>Full-screen app experience</li>
