@@ -1,7 +1,8 @@
 import { getMarkdownItem } from '../../../lib/content';
 
 export default async function TutorialPage({ params }) {
-  const item = await getMarkdownItem('tutorials', params.slug);
+  const { slug } = await params;
+  const item = await getMarkdownItem('tutorials', slug);
 
   return (
     <main className="section">
