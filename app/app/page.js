@@ -1,7 +1,7 @@
 export default function AppPage() {
   return (
     <main className="section">
-      <h1>AI Workflow Laboratory App</h1>
+      <h1>📱 AI Workflow Laboratory App</h1>
 
       <p>AI Workflow Laboratory can be installed on your phone, tablet or computer just like an app. No App Store or Play Store download is required.</p>
 
