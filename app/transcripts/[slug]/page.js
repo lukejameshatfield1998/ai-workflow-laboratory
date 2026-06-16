@@ -1,7 +1,8 @@
 import { getMarkdownItem } from '../../../lib/content';
 
 export default async function TranscriptPage({ params }) {
-  const item = await getMarkdownItem('transcripts', params.slug);
+  const { slug } = await params;
+  const item = await getMarkdownItem('transcripts', slug);
 
   return (
     <main className="section">
