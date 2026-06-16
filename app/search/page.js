@@ -24,12 +24,12 @@ export default async function SearchPage({ searchParams }) {
     ? items.filter((item) =>
         `${item.title} ${item.description} ${item.type}`.toLowerCase().includes(query)
       )
-    : items;
+    : [];
 
   return (
     <main className="section">
       <h1>Search</h1>
-      <p className="muted">Search tutorials, transcripts and AI tools.</p>
+      <p className="muted">Search for tutorials, transcripts or AI tools.</p>
 
       <form>
         <input
