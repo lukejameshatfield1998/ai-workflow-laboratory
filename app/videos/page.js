@@ -6,7 +6,7 @@ export default async function VideosPage() {
   return (
     <main className="section">
       <h1>Latest Videos</h1>
-      <p className="muted">New uploads appear here automatically once your YouTube API details are added.</p>
+      <p className="muted">New uploads from the AI Workflow Laboratory YouTube channel appear here automatically.</p>
 
       <div className="grid">
         {videos.length === 0 && (
