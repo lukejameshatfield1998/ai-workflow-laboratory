@@ -2,7 +2,8 @@ import { getAllSearchItems } from '../../lib/content';
 import { tools } from '../../data/tools';
 
 export default async function SearchPage({ searchParams }) {
-  const query = (searchParams.q || '').toLowerCase();
+  const params = await searchParams;
+  const query = (params.q || '').toLowerCase();
   const contentItems = await getAllSearchItems();
 
   const items = [
