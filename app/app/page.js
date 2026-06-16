@@ -11,13 +11,9 @@ export default function AppPage() {
 
       <h2>🍎 Install on iPhone & iPad</h2>
 
-      <p>
-        Open AI Workflow Laboratory in Safari and follow:
-      </p>
+      <p>Open AI Workflow Laboratory in Safari and follow:</p>
 
-      <p>
-        ••• → Share → View More → Add to Home Screen
-      </p>
+      <p>••• → Share → View More → Add to Home Screen</p>
 
       <p>
         Once added, AI Workflow Laboratory will appear on your Home Screen like a
@@ -26,27 +22,17 @@ export default function AppPage() {
 
       <h2>🤖 Install on Android</h2>
 
-      <p>
-        Open AI Workflow Laboratory in Chrome and follow:
-      </p>
+      <p>Open AI Workflow Laboratory in Chrome and follow:</p>
 
-      <p>
-        ⋮ → Install App
-      </p>
+      <p>⋮ → Install App</p>
 
-      <p>
-        Follow the on-screen instructions to install.
-      </p>
+      <p>Follow the on-screen instructions to install.</p>
 
       <h2>💻 Install on Windows or Mac</h2>
 
-      <p>
-        Open AI Workflow Laboratory in Chrome or Microsoft Edge and follow:
-      </p>
+      <p>Open AI Workflow Laboratory in Chrome or Microsoft Edge and follow:</p>
 
-      <p>
-        Address Bar Install Icon → Install
-      </p>
+      <p>Address Bar Install Icon → Install</p>
 
       <h2>🚀 Benefits</h2>
 
@@ -60,4 +46,3 @@ export default function AppPage() {
     </main>
   );
 }
-```
