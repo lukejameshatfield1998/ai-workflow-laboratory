@@ -20,6 +20,15 @@ export default async function Home() {
         <img className="hero-logo" src="/logo.png" alt="AI Workflow Laboratory logo" />
       </section>
 
+<section className="section">
+  <h2>Featured Tutorials</h2>
+  <ul>
+    <li><a href="/tutorials/How-to-write-professional-emails-with-AI">How to write professional emails with AI</a></li>
+    <li><a href="/tutorials/how-to-create-professional-quotations-with-AI">How to create professional quotations with AI</a></li>
+    <li><a href="/tutorials/How-to-build-a-customer-FAQ-using-AI">How to build a customer FAQ using AI</a></li>
+  </ul>
+</section>
+    
       <section className="section">
         <div className="section-header">
           <div>
