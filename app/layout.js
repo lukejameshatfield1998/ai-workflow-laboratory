@@ -1,4 +1,5 @@
 import './globals.css';
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata = {
   title: 'AI Workflow Laboratory',
@@ -31,6 +32,7 @@ export default function RootLayout({ children }) {
           <img src="/logo.png" alt="AI Workflow Laboratory logo" />
           <p>AI Workflow Laboratory — Automate. Save Time. Grow.</p>
         </footer>
+        <Analytics />
       </body>
     </html>
   );
