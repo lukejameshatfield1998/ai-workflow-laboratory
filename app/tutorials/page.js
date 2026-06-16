@@ -6,7 +6,13 @@ export default async function TutorialsPage() {
   return (
     <main className="section">
       <h1>AI Tutorials</h1>
-      <p className="muted">Text guides for simple AI help and workflow ideas.</p>
+      <p className="muted">
+  Text guides for simple AI help and workflow ideas.
+</p>
+
+<p className="muted">
+  📚 New tutorials added frequently. Check back regularly for the latest AI workflows, automation ideas and practical business guides.
+</p>
 
       <div className="grid">
         {tutorials.map((item) => (
