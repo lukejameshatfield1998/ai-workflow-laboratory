@@ -51,4 +51,3 @@ Recommended Improvements:
 
 AI can transform large volumes of customer feedback into actionable business insights.
 
-# FOR SARA HATFIELD
