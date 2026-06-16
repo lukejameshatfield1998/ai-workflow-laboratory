@@ -1,6 +1,6 @@
 ---
 title: "I built an AI assistant using only free tools"
-date: "2026-06-13"
+date: "2026-06-15"
 ---
 
 ## Transcript
