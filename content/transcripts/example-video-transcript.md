@@ -1,18 +1,36 @@
 ---
-title: "Example Video Transcript"
-date: "2026-06-15"
-excerpt: "Example transcript layout for one of your YouTube videos."
+title: "5 Free AI tools small businesses should be using in 2026"
+date: "2026-06-13"
 ---
 
 ## Transcript
 
-Welcome back to AI Workflow Laboratory.
+What if I told you there are five completely free AI tools that could save your business hours every single week? Today, I'm going to show you exactly what they are, how they work, and practical ways businesses are already using them. Most small business owners have heard about AI by now. The problem is that most of the advice online is either overly technical or focused on expensive software. In this video, I'm going to show you five completely free AI tools that can help save time, improve productivity, and automate repetitive tasks. Let's get started.
 
-In this video, we are testing a simple AI workflow and turning it into something practical.
+The first tool is Chat GPT. Most people think Chat GPT is simply a chatbot, but for businesses, it's much more powerful than that. One practical use is handling customer communications. Imagine a customer emails your business with an urgent issue. Instead of drafting a response from scratch, chat GPT can provide a professional starting point within seconds. Let's take a look. To start off, I have created a prompt that I will paste. Now, in this prompt, I've put, I am an experienced office administrator for a refrigeration company. A supermarket manager has emailed saying, "Our walk-in freezer has stopped cooling and product temperatures are rising. We urgently require an engineer." Write a professional response that acknowledges the issue, reassures the customer, explains an engineer will be dispatched urgently, and maintains a professional tone.
+
+As you can see, Chat GPT has immediately created a professional response. It's acknowledged the issue, reassured the customer, and maintained a professional tone throughout. For businesses dealing with large numbers of emails, this can significantly reduce the time spent drafting routine communications. The key benefit isn't replacing people. It's reducing repetitive work so people can focus on more valuable tasks. The second tool is Google Gemini. Gemini is particularly useful for research, planning, and business analysis. Rather than spending hours searching online, it can quickly generate ideas and recommendations tailored to your business. Let's try a practical example. I have another prompt that I had created earlier.
+
+Let's see what response we get.
+
+So there's quite a few responses here. As you can see, Gemini has generated several practical ways AI could be used within a refrigeration and HVAC business. One of the most interesting suggestions is smart route optimization. Rather than simply sending engineers to jobs in the order they come in, AI can analyze traffic conditions, job locations, and engineer availability to reduce travel time and improve efficiency. Another useful suggestion is automated customer updates. Anyone who's worked in a service business knows how many calls come into the office asking where the engineer is. By automatically sending updates when an engineer is on the way, businesses can improve customer satisfaction while reducing administrative workload. I also like the idea of AI assisted quotation generation. Many businesses lose valuable time waiting for quotes to be produced and sent to customers. AI can help generate professional quotations much faster, helping businesses respond more quickly and potentially win more work. Finally, one of the most powerful suggestions is using AI as a diagnostic assistant. Imagine giving every engineer instant access to troubleshooting guidance, manufacturer information, and previous repair knowledge while they're on site. That could significantly improve productivity and help engineers solve problems more efficiently. What's interesting is that none of these ideas are about replacing people. They're about reducing repetitive work, improving efficiency, and allowing engineers and office staff to focus on higher value tasks. The third tool is Claude. Claude excels at creating structured documents, procedures, and business processes. This can be extremely useful when documenting how tasks should be completed within a business. Let's create a standard operating procedure. I will paste the prompt that I had already created and enter that.
+
+This one may take a little bit longer as it's creating a document and when it does create the document, it can turn it into a word document so it's easy to send to your customers. As you can see, Claude has now generated my response. One thing Claude does particularly well is structure information rather than producing a wall of text. It's created a clear process with logical steps. If I was creating a real procedure for a business, this would provide an excellent starting point. Instead of spending an hour creating a framework from scratch, I can focus on refining and improving what's already been generated. And as you can see here is where you can download your file directly to your desktop. The fourth tool is Canva. Creating professional marketing materials used to require expensive software or hiring a designer. Canva makes that process significantly easier. Whether you need flyers, social media content, or promotional graphics, there are thousands of templates available. Let's take a look. Once you've loaded up Canva, scroll here to templates and it'll bring you to the template screen. For this example, I'm going to be searching business flyer.
+
+Here's all our flyers on Canva. Any of these that have the crown at the bottom, you need to upgrade to Canva business to use this premium template. I'm going to choose a free template now so I can demonstrate. As you can see, I have chosen my template and I'm going to be changing the name to AI workflow refrigeration.
+
+And then I'm going to be changing a few other items on this flyer just to specify what I'd like. What I like about Canva is how quickly professional looking content can be created. You don't need graphic design experience and you don't need expensive software. Most of these templates can be customized in just a few minutes. For many small businesses, that's more than enough for social media posts, promotions, and basic marketing materials. The fifth and final tool is make.com. This is where things become really powerful. While the previous tools help create content and ideas, make.com helps automate entire workflows. Imagine a customer submits an inquiry through your website. Instead of manually copying information between systems, make can automate the process. Let's look at an example. So now we're on make.com's template screen. From here, you click in the search tab. And for this example, I'm going to search Google Sheets. Click on Google Sheets. And then we're also going to do Gmail. So we click on Gmail. That brings up multiple templates that we can use for our business. This is where automation becomes really powerful. A customer inquiry can automatically be logged, stored in a spreadsheet, and trigger notifications without anyone having to do the work manually. These kinds of automations can save businesses hours every week. The goal isn't to automate everything. It's to automate repetitive tasks so people can focus on work that actually requires human input. Those are five free AI tools that every small business owner should consider exploring. Used correctly, they can help reduce repetitive work, improve efficiency, and free up more time to focus on growing the business. If you found this video useful, consider subscribing to AI workflow laboratory for more practical AI workflows, automation tutorials, and business focused AI content. Thanks for watching, and I'll see you in the next video.
 
 ## Key points
 
-- Find a repetitive task
-- Ask AI to structure the task
-- Turn the result into a reusable checklist
-- Test the workflow before relying on it
+* **ChatGPT** – Draft professional emails, documents, and responses in seconds.
+* **Google Gemini** – Generate business ideas, research insights, and efficiency improvements quickly.
+* **Claude** – Create structured procedures, SOPs, and business documentation with ease.
+* **Canva** – Design professional marketing materials without graphic design experience.
+* **Make.com** – Automate repetitive workflows between apps and save hours of manual work.
+* **AI Benefit** – Reduce repetitive tasks so staff can focus on higher-value work.
+* **Cost Advantage** – All five tools offer free versions suitable for small businesses.
+* **Productivity Gain** – AI helps businesses work faster, smarter, and more efficiently.
+* **Automation Opportunity** – Simple automations can significantly reduce administrative workload.
+* **Business Growth** – More time saved means more time available to serve customers and grow the business.
+
