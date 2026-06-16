@@ -31,7 +31,11 @@ export default async function Home() {
 
         {latest ? (
           <div className="card">
-            <img src={latest.thumbnail} alt={latest.title} />
+          <img 
+          src={latest.thumbnail}
+  alt={latest.title}
+  style={{ maxWidth: '700px', width: '100%', margin: '0 auto', display: 'block' }}
+/>
             <h2>{latest.title}</h2>
             <p className="muted">{new Date(latest.publishedAt).toLocaleDateString('en-GB')}</p>
             <p>{latest.description}</p>
