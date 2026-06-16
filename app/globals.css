@@ -231,3 +231,9 @@ a { color: inherit; text-decoration: none; }
   margin: 0;
   opacity: 0.8;
 }
+
+@media (display-mode: standalone) {
+.app-install-link {
+display: none;
+}
+}
