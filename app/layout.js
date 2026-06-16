@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
             <a href="/transcripts">Transcripts</a>
             <a href="/tutorials">Tutorials</a>
             <a href="/tools">AI Tools</a>
-<a href="/app">App</a>
+<a className="app-install-link" href="/app">App</a>
 <a href="/search">Search</a>
 <a href="/about">About</a>
           </div>
