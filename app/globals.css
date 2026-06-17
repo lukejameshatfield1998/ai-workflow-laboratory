@@ -236,4 +236,12 @@ a { color: inherit; text-decoration: none; }
 .app-install-link {
 display: none;
 }
+
+  @media all and (display-mode: standalone),
+       all and (display-mode: window-controls-overlay),
+       all and (display-mode: minimal-ui) {
+  .app-install-link {
+    display: none !important;
+  }
+}
 }
