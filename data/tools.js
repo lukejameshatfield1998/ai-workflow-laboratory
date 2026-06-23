@@ -2,61 +2,67 @@ export const tools = [
   {
     name: 'ChatGPT',
     category: 'Writing, ideas and workflows',
-    description: 'Useful for writing emails, planning content, creating scripts, summarising notes and building simple workflows.',
-    link: 'https://chatgpt.com'
+    description: 'Useful for emails, scripts, content ideas, business documents and simple AI workflows.',
+    link: 'https://chatgpt.com',
+  },
+  {
+    name: 'Gemini',
+    category: 'Research and Google ecosystem',
+    description: 'Useful for brainstorming, research-style answers and working alongside Google tools.',
+    link: 'https://gemini.google.com',
   },
   {
     name: 'Claude',
     category: 'Writing and long documents',
     description: 'Good for turning messy notes into clear documents, scripts, tutorials and structured guides.',
-    link: 'https://claude.ai'
+    link: 'https://claude.ai',
   },
   {
-    name: 'Google Gemini',
-    category: 'Research and Google ecosystem',
-    description: 'Useful for brainstorming, research-style answers and working alongside Google tools.',
-    link: 'https://gemini.google.com'
+    name: 'NotebookLM',
+    category: 'Research and documents',
+    description: 'Useful for summarising documents, studying sources and creating notes from uploaded material.',
+    link: 'https://notebooklm.google.com',
   },
   {
     name: 'Perplexity',
     category: 'Research',
     description: 'Helpful for finding sources, comparing tools and researching topics quickly.',
-    link: 'https://www.perplexity.ai'
+    link: 'https://www.perplexity.ai',
   },
   {
-    name: 'Canva',
-    category: 'Design',
-    description: 'Create thumbnails, banners, social posts, PDFs and simple brand assets.',
-    link: 'https://www.canva.com'
-  },
-  {
-    name: 'CapCut',
-    category: 'Video editing',
-    description: 'Edit short-form videos, captions and simple YouTube content.',
-    link: 'https://www.capcut.com'
-  },
-  {
-    name: 'Notion AI',
-    category: 'Organisation',
-    description: 'Useful for notes, databases, content planning and lightweight project organisation.',
-    link: 'https://www.notion.so'
-  },
-  {
-    name: 'Zapier',
-    category: 'Automation',
-    description: 'Connect apps together and automate repetitive business tasks without heavy coding.',
-    link: 'https://zapier.com'
-  },
-  {
-    name: 'Make',
-    category: 'Automation',
-    description: 'Visual automation builder for connecting tools, forms, spreadsheets and emails.',
-    link: 'https://www.make.com'
+    name: 'Gamma',
+    category: 'Presentations',
+    description: 'Create AI-powered presentations, documents and visual slides quickly.',
+    link: 'https://gamma.app',
   },
   {
     name: 'ElevenLabs',
     category: 'Voice',
     description: 'AI voice generation for narration, voiceovers and audio experiments.',
-    link: 'https://elevenlabs.io'
-  }
+    link: 'https://elevenlabs.io',
+  },
+  {
+    name: 'Napkin AI',
+    category: 'Visual explanations',
+    description: 'Turn text into diagrams, visual summaries and simple business graphics.',
+    link: 'https://www.napkin.ai',
+  },
+  {
+    name: 'Google AI Studio',
+    category: 'AI building and testing',
+    description: 'Useful for testing Gemini models, building prompts and experimenting with AI apps.',
+    link: 'https://aistudio.google.com',
+  },
+  {
+    name: 'Ideogram',
+    category: 'Image generation',
+    description: 'Create AI images, graphics, posters and text-based visuals.',
+    link: 'https://ideogram.ai',
+  },
+  {
+    name: 'HeyGen',
+    category: 'AI video',
+    description: 'Create AI avatar videos, video translations and presenter-style content.',
+    link: 'https://www.heygen.com',
+  },
 ];
