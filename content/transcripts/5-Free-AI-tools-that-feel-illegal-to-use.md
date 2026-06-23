@@ -33,7 +33,7 @@ And there we have it. Within seconds, Napkin AI has converted that text into a v
 
 Let's quickly recap. Notebook LM helps you understand documents. Flexity improves research. Gamma creates presentations. 11 Labs generates realistic voices. Napkin AI creates diagrams. All five tools offer free versions and each one has the potential to save a huge amount of time. Artificial intelligence isn't just about chat GPT. There are now hundreds of AI tools available and some of them are genuinely incredible. These are five of the most impressive free AI tools I've found so far. Which one would you use? Let me know in the comments. If you found this video useful, subscribe to AI Workflow Laboratory for more practical AI tutorials, business automation ideas, and beginnerfriendly AI guides. Thanks for watching, and I'll see you in the next video.
 
-* **Key Points**
+## Key Points
 
 * **NotebookLM** – Upload documents and ask questions to get instant summaries and insights.
 * **Perplexity** – Research topics using AI with source-backed answers and live web information.
