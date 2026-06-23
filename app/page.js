@@ -63,7 +63,7 @@ export default async function Home() {
       <section className="section grid">
         <div className="card">
           <h2>Video Transcripts</h2>
-          <p className="muted">Readable versions of your videos, organised in one place.</p>
+          <p className="muted">Readable versions of AI Workflow Laboratory YT videos, organised in one place.</p>
         </div>
         <div className="card">
           <h2>AI Tutorials</h2>
